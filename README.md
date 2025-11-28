@@ -22,7 +22,7 @@ Specializing in real-time audio processing, LLM integration, and desktop applica
 - **Memory Agent**: Sub-100ms vector search with Qdrant + Voyage AI
 - **Claude Workflows**: 6-module automation suite for content processing
 
-**Key Technologies**: GPT-4, Claude, Gemini 2.0 Flash, RAG pipelines, Vector DBs (Qdrant, ChromaDB, Pinecone)
+**Key Technologies**: GPT-5.1, Claude Opus 4.5, Gemini 3.0, RAG pipelines, Vector DBs (Qdrant, ChromaDB, Pinecone)
 
 ---
 
@@ -78,7 +78,7 @@ Specializing in real-time audio processing, LLM integration, and desktop applica
 <summary><b>🤖 AI/ML Ecosystem</b></summary>
 
 ### LLM Providers
-- Google Gemini 2.0/2.5, OpenAI GPT-4, Claude 3.5, DeepSeek, Mistral
+- Google Gemini 2.5/3.0, OpenAI GPT-5.1, Claude 4.5, Grok 4.1, DeepSeek, Mistral
 
 ### Frameworks & Tools
 - LangChain, LangGraph (multi-agent systems), LlamaIndex
@@ -121,7 +121,7 @@ Specializing in real-time audio processing, LLM integration, and desktop applica
 
 **Private Repository** | **20,000+ lines of Rust/TypeScript** | **Production MVP**
 
-A sophisticated desktop application providing real-time AI assistance during technical interviews through live audio processing and intelligent response generation.
+A sophisticated desktop application providing real-time AI assistance during technical meetings through live audio processing and intelligent response generation.
 
 ### Business Impact
 - **Sub-2 second** AI response generation with context-aware prompting
@@ -139,7 +139,7 @@ A sophisticated desktop application providing real-time AI assistance during tec
   ↓
 Multi-STT (Deepgram/Gemini Live/Whisper) → SQLite Storage
   ↓
-Context Assembly → Gemini 2.0 Flash → Streaming UI (SSE)
+Context Assembly → Gemini 2.5 Flash Lite → Streaming UI (SSE)
 ```
 
 ### Key Technical Achievements
@@ -170,12 +170,12 @@ Context Assembly → Gemini 2.0 Flash → Streaming UI (SSE)
 
 ---
 
-## 🎤 Whisper-Flow (Murmur) - AI Voice Dictation with Privacy
+## 🎤 Murmur - AI Voice Dictation with Privacy
 
 ![License](https://img.shields.io/badge/License-AGPLv3-blue)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-brightgreen)
 
-**[View on GitHub](https://github.com/AnsKM/whisper-flow)** | **Tauri + React + Rust** | **Cross-Platform**
+**[View on GitHub](https://github.com/AnsKM/murmur)** | **Tauri + React + Rust** | **Cross-Platform**
 
 AI-powered voice dictation desktop app with local-first privacy and flexible backend options.
 
@@ -270,8 +270,8 @@ Comprehensive AI-powered tools for content extraction, market analysis, and auto
 ### Free Cluely - Invisible AI Assistant
 **Electron + React + TypeScript** | **Cross-Platform**
 
-Translucent desktop app for real-time AI assistance during meetings/interviews
-- **Dual AI Modes**: Cloud (Gemini 2.0) or Local (Ollama)
+Translucent desktop app for real-time AI assistance during meetingsinterviews
+- **Dual AI Modes**: Cloud (Gemini 2.5) or Local (Ollama)
 - **Screenshot Analysis**: Smart content analysis with vision models
 - **Global Hotkeys**: System-wide shortcuts for instant access
 - **Privacy-First**: Auto-delete screenshots, local processing option
