@@ -46,7 +46,7 @@ Specializing in real-time audio processing, LLM integration, and desktop applica
 ![Electron](https://img.shields.io/badge/Electron-Advanced-47848F?logo=electron&logoColor=white)
 
 **Impact**: Shipped 3 cross-platform desktop apps with 20K+ LOC
-- **Interview Assistant**: 20,000+ lines of Rust/TypeScript production code
+- **Meeting Assistant**: 20,000+ lines of Rust/TypeScript production code
 - **Free Cluely**: Invisible AI assistant with local/cloud LLM support
 - **Whisper-Flow**: Voice dictation with GPU acceleration (macOS/Windows/Linux)
 
