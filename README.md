@@ -1,4 +1,4 @@
-# Anas Khalid
+# Ans Khalid
 ### AI Engineer | Full-Stack Developer | Systems Architect
 
 Building production-ready AI systems that deliver measurable business impact.
@@ -33,7 +33,7 @@ Specializing in real-time audio processing, LLM integration, and desktop applica
 
 **Impact**: Processed 100+ hours of voice data with <300ms latency
 - **Whisper-Flow**: Cross-platform voice dictation with local/cloud options
-- **Interview Assistant**: Dual-channel audio capture via Core Audio Taps
+- **Meeting Assistant**: Dual-channel audio capture via Core Audio Taps
 - **Real-time STT**: Multi-provider architecture (Deepgram, Whisper, Gemini Live)
 
 **Key Technologies**: Tauri, CPAL, Deepgram Nova-3, Whisper.rs, tokio async runtime
