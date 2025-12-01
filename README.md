@@ -18,7 +18,7 @@ Specializing in real-time audio processing, LLM integration, and desktop applica
 ![LangChain](https://img.shields.io/badge/LangChain-Expert-1C3C3C?logoColor=white)
 
 **Impact**: Built 5+ production AI systems serving 100+ users
-- **Interview Assistant**: Real-time AI suggestions with <2s response time
+- **Meeting Assistant**: Real-time AI suggestions with <2s response time
 - **Memory Agent**: Sub-100ms vector search with Qdrant + Voyage AI
 - **Claude Workflows**: 6-module automation suite for content processing
 
@@ -113,7 +113,7 @@ Specializing in real-time audio processing, LLM integration, and desktop applica
 
 ---
 
-## 🎙️ Interview Assistant - Real-Time AI Interview Copilot
+## 🎙️ Meeting Assistant - Real-Time AI Meeting Copilot
 
 ![Status](https://img.shields.io/badge/Status-Production_MVP-success)
 ![Private](https://img.shields.io/badge/Repo-Private-orange)
@@ -148,7 +148,7 @@ Context Assembly → Gemini 2.5 Flash Lite → Streaming UI (SSE)
 - **Advanced Audio Processing**: 24kHz resampling with anti-aliasing, VAD filtering
 - **Async Architecture**: Tokio runtime with lock-free crossbeam channels
 - **Local Persistence**: SQLite with UUID v7 time-ordered session IDs
-- **Context Management**: RAG-style interview prep document loading
+- **Context Management**: RAG-style meeting prep document loading
 
 ### Tech Stack
 - **Backend**: Rust, Tauri 2.0, CPAL, tokio, rubato, whisper-rs
@@ -158,7 +158,7 @@ Context Assembly → Gemini 2.5 Flash Lite → Streaming UI (SSE)
 
 ### Features
 - 🎤 Real-time dual audio capture (no drivers needed)
-- 🧠 Context-aware AI with loaded interview prep notes
+- 🧠 Context-aware AI with loaded meeting prep notes
 - ⚡ Sub-500ms end-to-end latency
 - 🔒 100% local data storage (no cloud sync)
 - 🎨 Transparency mode with adjustable opacity
@@ -166,7 +166,7 @@ Context Assembly → Gemini 2.5 Flash Lite → Streaming UI (SSE)
 
 **[📸 Screenshots Coming Soon]** | **[📄 Architecture Documentation Coming Soon]**
 
-**Cost**: <$1.00 per 2-hour interview session
+**Cost**: <$1.00 per 2-hour meeting session
 
 ---
 
@@ -270,7 +270,7 @@ Comprehensive AI-powered tools for content extraction, market analysis, and auto
 ### Free Cluely - Invisible AI Assistant
 **Electron + React + TypeScript** | **Cross-Platform**
 
-Translucent desktop app for real-time AI assistance during meetingsinterviews
+Translucent desktop app for real-time AI assistance during meetings
 - **Dual AI Modes**: Cloud (Gemini 2.5) or Local (Ollama)
 - **Screenshot Analysis**: Smart content analysis with vision models
 - **Global Hotkeys**: System-wide shortcuts for instant access
@@ -399,7 +399,7 @@ Automatically extract and structure job posting data
 
 ### Highlights
 - 🔨 **14+ Active Repositories** (public + private)
-- ⚡ **20,000+ Lines** of production Rust/TypeScript in Interview Assistant
+- ⚡ **20,000+ Lines** of production Rust/TypeScript in Meeting Assistant
 - 🌟 **6 Production Systems** deployed and maintained
 - 🤝 **Open Source**: MCP servers, desktop apps, automation tools
 
@@ -412,12 +412,12 @@ Quick reference for recruiters scanning for specific technologies:
 
 | Technology | Primary Projects | Business Impact |
 |------------|------------------|-----------------|
-| **Rust** | Interview Assistant, Whisper-Flow | Real-time audio processing, system programming |
+| **Rust** | Meeting Assistant, Whisper-Flow | Real-time audio processing, system programming |
 | **Python** | Memory Agent, Claude Workflows, AI Job Hunter | AI/ML pipelines, automation, web scraping |
-| **TypeScript** | Interview Assistant, Free Cluely, Whisper-Flow | Desktop apps, React frontends, type safety |
-| **Tauri** | Interview Assistant, Whisper-Flow | Cross-platform desktop with native performance |
+| **TypeScript** | Meeting Assistant, Free Cluely, Whisper-Flow | Desktop apps, React frontends, type safety |
+| **Tauri** | Meeting Assistant, Whisper-Flow | Cross-platform desktop with native performance |
 | **LLM APIs** | All AI projects | Production AI integrations across 6+ systems |
-| **Voice AI** | Interview Assistant, Whisper-Flow | 100+ hours processed, <300ms latency |
+| **Voice AI** | Meeting Assistant, Whisper-Flow | 100+ hours processed, <300ms latency |
 | **Vector DBs** | Memory Agent, RAG systems | Sub-100ms semantic search, context retrieval |
 | **FastAPI** | Memory Agent, AI APIs | High-performance Python backends |
 | **React** | All desktop apps, Zeit Erfassung | Modern UI with hooks, state management |
